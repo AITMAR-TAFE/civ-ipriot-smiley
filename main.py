@@ -30,3 +30,4 @@ if __name__ == '__main__':
     # is defined as an interface (i.e., an abstract base class
     # with an abstract method).
     smiley.blink()
+
